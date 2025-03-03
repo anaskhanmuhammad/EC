@@ -1,5 +1,5 @@
 BRANCHES:
-  - `main` → The stable production branch.
+  - `main` 
   - `server` → Backend development branch.
   - `client` → Frontend development branch.
   - `blockchain` → Blockchain-related development.
