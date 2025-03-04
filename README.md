@@ -1,7 +1,7 @@
 BRANCHES:
   - main 
-  - server -> Backend development branch.
-  - client -> Frontend development branch.
-  - blockchain -> Blockchain-related development.
-  - ML -> Machine Learning development.
+  - EC-server -> Backend development branch.
+  - EC-client -> Frontend development branch.
+  - EC-blockchain -> Blockchain-related development.
+  - EC-ML -> Machine Learning development.
 
